@@ -1,0 +1,18 @@
+{
+    "name": "open-talent-backend",
+    "version": "1.0.0",
+    "description": "Backend for Open Talent application",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "@dfinity/agent": "^0.11.0",
+      "bcrypt": "^5.0.1",
+      "body-parser": "^1.19.0",
+      "dotenv": "^10.0.0",
+      "express": "^4.17.1",
+      "jsonwebtoken": "^8.5.1"
+    }
+  }
+  
